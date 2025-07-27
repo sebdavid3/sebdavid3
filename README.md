@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I'm a 7th-semester Systems Engineering student at Universidad del Norte in Barranquilla, Colombia. My interests include data analysis, artificial intelligence, and musical analysis.<br><br>Apart from programming, I'm also a violinist 🎻.<br><br>- 🌱 I’m currently learning more about AI and data-driven technologies.<br>- 🎶 I love exploring the intersection between music and technology.<br>- 📫 How to reach me: [sebdavidibanezrios@gmail.com].<br>- ⚡ Fun fact: I spend my weekends balancing coding and violin practice!
+## Hi there 👋<br><br>I'm a 8th-semester Systems Engineering student at Universidad del Norte in Barranquilla, Colombia. My interests include data analysis, artificial intelligence, and musical analysis.<br><br>Apart from programming, I'm also a violinist 🎻.<br><br>- 🌱 I’m currently learning more about AI and data-driven technologies.<br>- 🎶 I love exploring the intersection between music and technology.<br>- 📫 How to reach me: [sebdavidibanezrios@gmail.com].<br>- ⚡ Fun fact: I spend my weekends balancing coding and violin practice!
 
 
 ## 🌐 Socials:
