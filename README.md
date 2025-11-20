@@ -1,13 +1,19 @@
+
+
 <div align="center">
-  <h1>Sebastian</h1>
-  <h3>Junior Software Engineer</h3>
+  <h1>Sebastian Ibañez</h1>
+  <h3>Software Engineer</h3>
   <p>Systems Engineering Student @ Universidad del Norte</p>
+</div>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtanBhZjN3MDJhN29kZzY1dGxib283dWg2aDE4YjNhNXJtbnEycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ssbyVnx5PMGY/giphy.gif" width="100%" alt="Steven Universe GIF" />
 </div>
 
 <br/>
 
 <div align="center">
-  I'm a <b>Junior Software Engineer</b> and <b>Systems Engineering Student</b> driven by a passion for building secure, scalable backend systems.
+  I'm a <b>Software Engineer</b> and <b>Systems Engineering Student</b> driven by a passion for building secure, scalable backend systems.
   <br/><br/>
   Currently, I work modernizing legacy Java applications and building biometric authentication APIs using <b>Spring Boot</b> and <b>AWS</b>. I enjoy turning complex requirements into reliable services.
 
