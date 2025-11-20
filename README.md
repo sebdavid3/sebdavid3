@@ -1,21 +1,66 @@
-# 💫 About Me:
-## Hi there 👋<br><br>I'm a 8th-semester Systems Engineering student at Universidad del Norte in Barranquilla, Colombia. My interests include data analysis, artificial intelligence, and musical analysis.<br><br>Apart from programming, I'm also a violinist 🎻.<br><br>- 🌱 I’m currently learning more about AI and data-driven technologies.<br>- 🎶 I love exploring the intersection between music and technology.<br>- 📫 How to reach me: [sebdavidibanezrios@gmail.com].<br>- ⚡ Fun fact: I spend my weekends balancing coding and violin practice!
+<div align="center">
+  <h1>Sebastian</h1>
+  <h3>Junior Software Engineer</h3>
+  <p>Systems Engineering Student @ Universidad del Norte</p>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nocontextme_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sdibanez) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sirpuntojs) 
+<div align="center">
+  I'm a <b>Junior Software Engineer</b> and <b>Systems Engineering Student</b> driven by a passion for building secure, scalable backend systems.
+  <br/><br/>
+  Currently, I work modernizing legacy Java applications and building biometric authentication APIs using <b>Spring Boot</b> and <b>AWS</b>. I enjoy turning complex requirements into reliable services.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sebdavid3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sebdavid3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebdavid3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Backend & Core
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Frontend & Web
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
----
-[![](https://visitcount.itsvg.in/api?id=sebdavid3&icon=0&color=6)](https://visitcount.itsvg.in)
+### Cloud, Data & Tools
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sebdavid3&icon=0&color=6" />
+</div>
+
+<br/>
+
+## Connect
+
+<div align="center">
+  <a href="mailto:sebdavidibanezrios@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/lemonbboy">
+    <img src="https://img.shields.io/badge/Discord-lemonbboy-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sdibanez">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nocontextme_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/sirpuntojs">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/lnri346hoc7imvbwnpp5f9ulg?si=d523ffe5b5594d42">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</div>
